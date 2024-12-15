@@ -27,19 +27,27 @@ Reporting:
 
 Clone this repository:
 
-```git clone https://github.com/nolansf/banking-app.git```
+```
+git clone https://github.com/nolansf/banking-app.git
+```
 
 Navigate to the project directory:
 
-```cd banking-app```
+```
+cd banking-app
+```
 
 Compile the application:
 
-```javac *.java```
+```
+javac *.java
+```
 
 Run the application:
 
-```java BankingApp```
+```
+java BankingApp
+```
 
 ### File Structure
 
